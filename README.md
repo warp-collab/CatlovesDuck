@@ -1,5 +1,6 @@
 <h4> HIMCM Kickstart round </h4> 
-The Discrete Event Simulation (DES) of ambulance recovery based on ambulance locations. <br>
+This is the source code (code.ipynb) for HIMCM Kickstart round. Our model use Discrete Event Simulation (DES) to sample the maxmimum coverage ambulance configuration. <br>
+The data used in this model is shown in raw.csv.
 Here are some reminders:
 <ol>
   <li>The timestep used in this model is 0.5 minutes.</li>
