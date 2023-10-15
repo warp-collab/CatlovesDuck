@@ -1,3 +1,1 @@
-# HIMCM
-Checklist
-- poisson distribution
+
